@@ -3,7 +3,9 @@
 ##  Building an RMI App
 
 1.Define the interfaces
+
 2.Implement the server
+
 3.Implement the client
 
 Below you can see an example for pass two numbers to the server and it will add these two then return to the client.
